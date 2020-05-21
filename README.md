@@ -12,6 +12,8 @@ sudo apt-get install dotnet-runtime-3.1
 ```
 
 ## Download latest release
+Download the latest `qBittorrent.Cleanup.zip` from the releases page
+
 https://github.com/TheUltimateC0der/qBittorrent.Cleanup/releases
 
 ## Run
