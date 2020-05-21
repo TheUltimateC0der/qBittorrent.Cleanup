@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "qBittorrent.Cleanup": {
+      "commandName": "Project"
+    }
+  }
+}
